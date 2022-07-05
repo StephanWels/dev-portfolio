@@ -1,62 +1,64 @@
 # Stephan Wels - Developer Portfolio
 
 ## key facts
-* delivering software since: 2009
-* key consulting fields: 
-  * software development
-  * agile projects and processes
+* Delivering software since: 2009
+* Key consulting fields: 
+  * Software development
+  * Agile projects and processes
   * SOA & microservice architecture
 
 ## favorite roles
-* fullstack developer
-  * requirements engineering 
-  * implementation 
-  * test automation 
-  * infrastructure
-* tech lead
-  * hiring process setup and interviews 
-  * upskilling junior colleagues on the job 
-  * driving architectural improvements
-* translator (business <-> tech)
+* Fullstack developer
+  * Requirements engineering 
+  * Implementation 
+  * Test automation 
+  * Infrastructure
+* Tech lead
+  * Hiring process setup and interviews 
+  * Upskilling junior colleagues on the job 
+  * Driving architectural improvements
+* Translator (business <-> tech)
   * Align business needs and technical constraints
-  * develop common language
+  * Develop common language
 
 ## core tech stack
-* frontend
-  * typescript/vue, javascript/angular 
-  * test automation: cypress, playwright, selenium, geb
-* backend
-  * typescript/nestjs, java/spring boot
-  * test automation: spock, jest
-* infrastructure
-  * aws, azure, heroku, docker
-  * automation tools: terraform, bash
+* Frontend
+  * Typescript/vue, javascript/angular 
+  * Test automation: cypress, playwright, selenium, geb
+* Backend
+  * Typescript/nestjs, java/spring boot
+  * Test automation: spock, jest
+* Infrastructure
+  * Aws, azure, heroku, docker
+  * Automation tools: terraform, bash
 
 ## extensive tech stack
 
-### Backend frameworks:
+### backend frameworks
 NestJS, Spring Framework, Spring Boot, Spring Data JPA, Spring Data REST, Spring Security, Spring Web Services, Spring REST, Hibernate, JAX-RS, JSON, JAX-WS, Swagger, Tomcat, Spring Security, Spring Cloud, Spring Sleuth, Netflix Hystrix, Netflix Ribbon, Netflix Zuul, Netflix Sleuth, Apache Solr, Apache Zookeeper, Spring Kafka, Spring Cloud Stream, Apache Camel, Apache CXF, Netflix Ribbon, Netflix Hystrix, Netflix Sleuth, Netflix Zuul, Apache Lucene, Apache Solr, Apache Zookeeper, Togglz, Spock, JUnit, Mockito, DbUnit, REST-asured, Gatling, Selenium, JMeter, PiTest
-### Frontend frameworks:
+### frontend frameworks
 Vue, Nuxt, Vuetify, Angular, Angular material, Bootstrap, Ionic, react.js, handlebars.js, postal.js, npm, Grunt, Webpack, Jasmine, Galen, Geb, Thymeleaf, Swing, Eclipse RCP (swt), Apache Struts 2, servlet api, java server pages (jsp), Google tag manager, Usercentrics, Google analytics, Adobe analytics, Contentful
-### infrastructure:
+### cloud
+AWS, Azure, Heroku, Google Compute
+### infrastructure
 Tomcat, Jetty, Apache HTTP, Undertow, NGINGX, Docker, Vagrant, Consul, Swarm, Google Compute, Wildfly, Kubernates, Akamai, Kibana, Elastic Search, Filebeat, Logstash, Prometheus, Grafana
-### sql-databases
-PostgreSQL, MySQL, Azure SQL, Impala, H2, HSQLDB
 ### nosql-databases
 Apache Solr, Neo4J, Redis, MongoDB, Cloud Firestore
-### messaging:
+### sql-databases
+PostgreSQL, MySQL, Azure SQL, Impala, H2, HSQLDB
+### messaging
 Apache Kafka, RabbitMQ, IBM MQSeries, Apache ActiveMQ, Bull
-### build- & ci-tools:
+### build- & ci-tools
 Github Actions, Azure Devops, Gitlab, Maven, Gradle, npm, grunt, webpack, Ansible, Vagrant, Docker, Bamboo, Sonar, JRebel, CVS, Subversion, Git, Stash, Sonar
-### methodical knowledge:
+### methodical knowledge
 Test Driven Development (TDD), Behavior Driven Development (BDD) Objektorientierte Programmierung (OOP), Aspect Oriented Programming (AOP), Paper Prototyping, Software Design Pattern, Consumer Driven Contracts, Datenmodellierung, Datenbankdesign, Continuous Integration, Continuous Delivery
-### process models:
+### process models
 Scrum, Kanban, Extreme Programming (XP), Pair-Programming
-### issue tracker & wikis:
+### issue tracker & wikis
 JIRA, Confluence, Redmine
 ### operating systems
 MacOS, MS Windows, Linux
-### IDEs:
+### IDEs
 IDEA IntelliJ, Eclipse
 
 
@@ -69,12 +71,12 @@ Build an online shop to sell and rent charge points (wallboxes) for electric veh
 #### Role
 Fullstack Software Developer
 #### Responsibilities
-* evaluation of off-the-shelf solutions (such as Shopify)
-* custom-build online shop due to the lack of rental features in off-the-shelf-solutions
-* implement checkout process, payment and fulfilmment
-* setup infrastructure to build, test and run on from scratch
-* track customer journey with on-page tracking and customer satisfaction polls
-* build a web interface to controll wallboxes in the field via Open Charge Point Protocol (OCPP)
+* Evaluation of off-the-shelf solutions (such as Shopify)
+* Custom-build online shop due to the lack of rental features in off-the-shelf-solutions
+* Implement checkout process, payment and fulfilmment
+* Setup infrastructure to build, test and run on from scratch
+* Track customer journey with on-page tracking and customer satisfaction polls
+* Build a web interface to controll wallboxes in the field via Open Charge Point Protocol (OCPP)
 * Build and print a 3D model to facilitate firmware updates on site via ethernet
 
 #### Tech Stack
@@ -96,11 +98,11 @@ Sell electricity tariffs as a bundle add-on product for a photovoltaic system re
 #### Role
 Tech Lead
 #### Responsibilities
-* hiring process setup and interviews
-* evaluation of Powercloud as an energy ERP candidate 
-* integration into the mother company's salesforce processes
-* integration of the electricity fulfillment partner
-* design and deliver customer facing web forms to collect necessary data
+* Hiring process setup and interviews
+* Evaluation of Powercloud as an energy ERP candidate 
+* Integration into the mother company's salesforce processes
+* Integration of the electricity fulfillment partner
+* Design and deliver customer facing web forms to collect necessary data
 * Azure based infrastructure setup 
 
 #### Tech Stack
@@ -145,13 +147,13 @@ Copyright Collecting Society
 #### Challenge
 Reverse engineer the legacy database model with decades of history and prepare and develop a migration strategy to the new schema.
 #### Role
-Full-Stack developer
+Fullstack developer
 #### Responsibilities
-* development of a UI to visualize and analyze the data to be migrated
-* analysis and documentation of the old schemas data structures and specifics
-* iterative development of the actual migration logic in close connection with the product department
-* performance optimization of the actual migration process to enable large scale migration runs
-* building up and spreading knowledge on Kubernetes inside the team and the organization
+* Development of a UI to visualize and analyze the data to be migrated
+* Analysis and documentation of the old schemas data structures and specifics
+* Iterative development of the actual migration logic in close connection with the product department
+* Performance optimization of the actual migration process to enable large scale migration runs
+* Building up and spreading knowledge on Kubernetes inside the team and the organization
 
 #### Tech Stack
 ##### Backend
@@ -171,12 +173,12 @@ Rebuilt the existing ERP system from the ground up ensuring future expandability
 #### Role
 Fullstack Software Developer
 #### Responsibilities
-* development of domain specific microservices
-* optimization of the in-house search and matching engine with Apache Solr
-* e2E-Tests with Selenium and Cypress
-* frontend development with Angular 6 and Angular Material Components
-* bootstrapping a dockerized CI/CD environment
-* installation and configuration of a monitoring system using ELK and Grafana/Prometheus
+* Development of domain specific microservices
+* Optimization of the in-house search and matching engine with Apache Solr
+* E2E-Tests with Selenium and Cypress
+* Frontend development with Angular 6 and Angular Material Components
+* Bootstrapping a dockerized CI/CD environment
+* Installation and configuration of a monitoring system using ELK and Grafana/Prometheus
 
 
 #### Tech Stack
@@ -197,12 +199,12 @@ Facilitate the client’s strategy to map previously in-house designed business 
 #### Role
 Backend Developer
 #### Responsibilities
-* event based integration of numerous Commercial off-the-shelf (COTS) components via Kafka.
-* microservice development to drive the in-house user management
-* automating service deployment to the MS Azure Cloud
-* provisioning and extending the authentication service (Keycloak)
-* requirement engineering based on the legacy system and user feedback
-* supporting the operations team in stabilizing the in-house Kafka setup
+* Event based integration of numerous Commercial off-the-shelf (COTS) components via Kafka.
+* Microservice development to drive the in-house user management
+* Automating service deployment to the MS Azure Cloud
+* Provisioning and extending the authentication service (Keycloak)
+* Requirement engineering based on the legacy system and user feedback
+* Supporting the operations team in stabilizing the in-house Kafka setup
 #### Tech Stack
 ##### Backend
 Java 8, Spring Boot, Groovy, Spring Cloud Stream, Spock
@@ -221,12 +223,12 @@ Deliver an MVP for a direct B2C insurance as a test balloon for a large B2B insu
 #### Role
 Frontend Developer
 #### Responsibilities
-* portal frontend development with Angular 5 and Angular Material Components
-* implementation of an insurance rate calculator widget to be embedded into other (non-angular) host websites
-* supporting backend development for existing Spring Boot Web Services
-* bootstrapping and maintenance of a continuous integration pipeline for backend and frontend components
-* developing an app version of the portal with ionic
-* integrating a headless CMS (contentful)
+* Portal frontend development with Angular 5 and Angular Material Components
+* Implementation of an insurance rate calculator widget to be embedded into other (non-angular) host websites
+* Supporting backend development for existing Spring Boot Web Services
+* Bootstrapping and maintenance of a continuous integration pipeline for backend and frontend components
+* Developing an app version of the portal with ionic
+* Integrating a headless CMS (contentful)
 
 #### Tech Stack
 ##### Backend
@@ -246,12 +248,12 @@ Create a fully automated solution to link recipe ingredient lists to products av
 #### Role
 Fullstack Developer
 #### Responsibilities
-* conception and implementation the mapping logic from text to ingredients in a dedicated micro service
-* data preprocessing of user input using natural language processing (NLP)
-* evaluation and combination of several ingredient search algorithms
-* implementation of a JavaScript snippet to be embedded into other websites offering recipes and to redirect the user to the respective mapping result in the web shop
-* automate the incremental import of company-owned recipe data from CMS over Kafka
-* implementation of a searchable recipe catalogue using Apache Solr
+* Conception and implementation the mapping logic from text to ingredients in a dedicated micro service
+* Data preprocessing of user input using natural language processing (NLP)
+* Evaluation and combination of several ingredient search algorithms
+* Implementation of a JavaScript snippet to be embedded into other websites offering recipes and to redirect the user to the respective mapping result in the web shop
+* Automate the incremental import of company-owned recipe data from CMS over Kafka
+* Implementation of a searchable recipe catalogue using Apache Solr
 
 
 #### Tech Stack
@@ -304,11 +306,11 @@ Extract and re-implement the product search function of a monolithic legacy shop
 #### Role
 Backend Developer
 #### Responsibilities
-* legacy system refactoring of the shop monolith to separate product search logic components
-* implementation of a search micro service to provide the full product search functionality via REST in an independent micro service
-* provisioning a meaningful monitoring to gain insights into user behaviour and highlight weak spots in the current implementation
-* optimizing Solr schema based on the observed user behaviour
-* search experience personalization based on the user’s shopping history
+* Legacy system refactoring of the shop monolith to separate product search logic components
+* Implementation of a search micro service to provide the full product search functionality via REST in an independent micro service
+* Provisioning a meaningful monitoring to gain insights into user behaviour and highlight weak spots in the current implementation
+* Optimizing Solr schema based on the observed user behaviour
+* Search experience personalization based on the user’s shopping history
 
 #### Tech Stack
 ##### Backend
@@ -318,7 +320,7 @@ JavaScript, Java Server Pages (JSP), Handlebars.js, Require.js, Postal.js, Jasmi
 ##### Infrastructure
 Maven, npm, Grunt, Git, Stash, Bamboo, Docker Swarm
 ##### Collaboration Tools
-Jira, Confluence
+Scrum, Jira, Confluence
 
 
 ### 12/2014 – 03/2015 // Online Wine Shop
@@ -329,10 +331,10 @@ Develop a standalone web shop to sell wine online and embed it into the existing
 #### Role
 Fullstack Developer
 #### Responsibilities
-* development of the web shop frontend using Thymeleaf
-* backend development using Spring Boot
-* integration of the group-owned commodities management
-* shop backend integration with the commercetools commerce platform
+* Development of the web shop frontend using Thymeleaf
+* Backend development using Spring Boot
+* Integration of the group-owned commodities management
+* Shop backend integration with the commercetools commerce platform
 
 
 #### Tech Stack
@@ -355,10 +357,10 @@ Develop a unified data lake, in which all the data of the numerous data silos ca
 #### Role
 Big Data Developer
 #### Responsibilities
-* development of ETL (Extract-Transform-Load) pipelines inside the Hadoop eco system
-* implementation of Business Intelligence (BI) reports based on an Impala Database
-* code reviews and orchestration of an India-based off-shore development team
-* bootstrapping and maintenance of the continuous deployment (CD)
+* Development of ETL (Extract-Transform-Load) pipelines inside the Hadoop eco system
+* Implementation of Business Intelligence (BI) reports based on an Impala Database
+* Code reviews and orchestration of an India-based off-shore development team
+* Bootstrapping and maintenance of the continuous deployment (CD)
 
 #### Tech Stack
 ##### Backend
@@ -379,12 +381,12 @@ Facilitate the development process of clustering algorithms for extremely large 
 #### Role
 Research assistant
 #### Responsibilities
-* conception of a clustering algorithm suitable for extremely large and high dimensional datasets (e.g. gene sequences) based on MapReduce
-* hadoop-based implementation of the clustering algorithm
-* extension of the scientific stream data analysis suite  (MOA) for online clustering algorithms
-* developing a tool for experiment design, automated parameter tuning and result management in the field of machine learning algorithms.
-* tutorials for data structures and algorithms
-* supporting lecture and exam preparation
+* Conception of a clustering algorithm suitable for extremely large and high dimensional datasets (e.g. gene sequences) based on MapReduce
+* Hadoop-based implementation of the clustering algorithm
+* Extension of the scientific stream data analysis suite  (MOA) for online clustering algorithms
+* Developing a tool for experiment design, automated parameter tuning and result management in the field of machine learning algorithms.
+* Tutorials for data structures and algorithms
+* Supporting lecture and exam preparation
 
 #### Tech Stack
 ##### Backend
@@ -392,6 +394,4 @@ Java,  C++
 ##### Frontend
 Eclipse RCP, Swing, QT
 ##### Infrastructure
-Maven, Subversion, Hadoop, Weka, Moa,
-##### Collaboration Tools
-Redmine
+Maven, Subversion, Hadoop, Weka, Moa
